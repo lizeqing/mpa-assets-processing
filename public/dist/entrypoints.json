@@ -1,0 +1,24 @@
+{
+  "welcome": {
+    "js": [
+      "0.696ace9643cc9d9f62c3.js",
+      "1.c66a51a97fac263734f0.js",
+      "2.12b8cdd0044b07825a21.js"
+    ],
+    "css": [
+      "1.c66a51a97fac263734f0.css",
+      "2.12b8cdd0044b07825a21.css"
+    ]
+  },
+  "vue": {
+    "js": [
+      "0.696ace9643cc9d9f62c3.js",
+      "1.c66a51a97fac263734f0.js",
+      "3.f2b81fa2465525ac8620.js"
+    ],
+    "css": [
+      "1.c66a51a97fac263734f0.css",
+      "3.f2b81fa2465525ac8620.css"
+    ]
+  }
+}

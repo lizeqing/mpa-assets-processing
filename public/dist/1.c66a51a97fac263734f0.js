@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{10:function(e,o,t){"use strict";t(17),t(20);var n=t(9),s=t.n(n);s.a.defaults.headers.common["X-Requested-With"]="XMLHttpRequest";let c=document.head.querySelector('meta[name="csrf-token"]');c?s.a.defaults.headers.common["X-CSRF-TOKEN"]=c.content:console.error("CSRF token not found: https://laravel.com/docs/csrf#csrf-x-csrf-token")},20:function(e,o,t){}}]);
+//# sourceMappingURL=1.c66a51a97fac263734f0.js.map
